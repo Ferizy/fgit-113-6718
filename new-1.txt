@@ -1,3 +1,8 @@
 kore wa new-1.txt by git102
+<<<<<<< HEAD
 
 modified by user1
+=======
+ 
+ modified this line by user2
+>>>>>>> 049e06baee7164336db4b37ea0268e632f037d07
