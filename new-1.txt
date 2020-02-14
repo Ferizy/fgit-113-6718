@@ -1,2 +1,3 @@
 kore wa new-1.txt by git102
  
+ modified this line by user2
